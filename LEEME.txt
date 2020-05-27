@@ -1,0 +1,4 @@
+No borrar las capetas que vienen dentro del zip. 
+Meter las imagenes dentro de la carpeta 'images' y ejecutar en la consola (cmd o cualquier otra) el comando
+
+$ python imagecroper.py <image_Width> <image_Height>
