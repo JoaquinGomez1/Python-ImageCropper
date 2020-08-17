@@ -1,4 +1,4 @@
-"# Python-ImageCropper" 
+# Python-ImageCropper"
 
 This script is using PILLOW for the image handling aswell as python-image-cropper (pip install python-image-cropper)
 
