@@ -13,3 +13,7 @@ Add the all images that needs to be cropped to the 'images' directory and then r
 Once the images have been cropped they will be stored into the convertedImages folder and all of the original images will be deleted.
 
 If there is any images on the convertedImages directory a zip file will be created to store the previously cropped images. 
+
+Dependencies: 
+pillow (pip install pillow)
+python-resize-image (pip install python-resize-image)
