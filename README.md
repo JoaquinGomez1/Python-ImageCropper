@@ -1,4 +1,4 @@
-# Python-ImageCropper"
+# Python-ImageCropper
 
 This script is using PILLOW for the image handling aswell as python-image-cropper (pip install python-image-cropper)
 
@@ -14,6 +14,6 @@ Once the images have been cropped they will be stored into the convertedImages f
 
 If there is any images on the convertedImages directory a zip file will be created to store the previously cropped images. 
 
-Dependencies: 
-pillow (pip install pillow)
-python-resize-image (pip install python-resize-image)
+##Dependencies: 
+> - pillow (pip install pillow)
+> - python-resize-image (pip install python-resize-image)
